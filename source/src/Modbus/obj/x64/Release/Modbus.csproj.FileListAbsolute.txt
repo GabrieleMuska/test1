@@ -1,0 +1,12 @@
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\Modbus.dll
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\Modbus.pdb
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\Modbus.XML
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\log4net.dll
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\System.Core.dll
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\Unme.Common.dll
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\bin\x64\Release\Unme.Common.xml
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\obj\x64\Release\ResolveAssemblyReference.cache
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\obj\x64\Release\Modbus.Resources.resources
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\obj\x64\Release\Modbus.csproj.GenerateResource.Cache
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\obj\x64\Release\Modbus.dll
+C:\MY_DISK\Progetti\FrerProjMSV\modbus\source\src\Modbus\obj\x64\Release\Modbus.pdb

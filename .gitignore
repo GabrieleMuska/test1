@@ -1,0 +1,20 @@
+# exclude all files and all folders
+/*
+
+# include dir source under the folder modBus_Git
+!/source
+
+
+# NOW, exclude dir source/src/Modbus, but include all the files under source/src/
+# and under /source/src/Modbus/
+/source/src/Modbus/bin
+/source/src/Modbus/Data
+
+
+
+# include the files (this files are under the folder modBus_Git) 
+!.gitignore
+!*.txt
+!*.chm
+
+
