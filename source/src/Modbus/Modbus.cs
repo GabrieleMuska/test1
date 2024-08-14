@@ -5,6 +5,10 @@ namespace Modbus
 	/// </summary>
 	internal static class Modbus
 	{			
+		//CHANGE GABRIELE MUSKA
+		// GIT TEST
+		
+		
 		// supported function codes
 		public const byte ReadCoils = 1;
 		public const byte ReadInputs = 2;
